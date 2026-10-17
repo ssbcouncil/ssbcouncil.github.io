@@ -1,0 +1,21 @@
+# The Sydney Schools Business Competition is now run by Mile Zero.
+# Every page moves permanently to its counterpart on milezeronetwork.org.
+/ https://milezeronetwork.org/ 301
+/index.html https://milezeronetwork.org/ 301
+/about https://milezeronetwork.org/about/ 301
+/about.html https://milezeronetwork.org/about/ 301
+/competition https://milezeronetwork.org/competition/ 301
+/competition.html https://milezeronetwork.org/competition/ 301
+/get-involved https://milezeronetwork.org/get-involved/ 301
+/get-involved.html https://milezeronetwork.org/get-involved/ 301
+/partners https://milezeronetwork.org/get-involved/ 301
+/partners.html https://milezeronetwork.org/get-involved/ 301
+/teachers https://milezeronetwork.org/get-involved/ 301
+/teachers.html https://milezeronetwork.org/get-involved/ 301
+/privacy https://milezeronetwork.org/privacy/ 301
+/privacy.html https://milezeronetwork.org/privacy/ 301
+/programs https://milezeronetwork.org/programs/ 301
+/programs.html https://milezeronetwork.org/programs/ 301
+/rules https://milezeronetwork.org/rules/ 301
+/rules.html https://milezeronetwork.org/rules/ 301
+/* https://milezeronetwork.org/ 301
